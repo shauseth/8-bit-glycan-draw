@@ -1,6 +1,6 @@
 <img src="images/logo.png" width=380 />
 
-A tool for drawing pixelated glycans.
+[A tool](/8-Bit GlycanDraw.ipynb) for drawing pixelated glycans.
 
 Reasons to pixelate glycans:
 * Drawings are in the form of small numpy arrays.
