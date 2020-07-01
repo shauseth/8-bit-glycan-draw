@@ -1,4 +1,4 @@
-<img src="images/logo.png" width=320 style="float:left" />
+<img src="images/logo.png" width=320 />
 
 A tool for drawing pixelated glycans.
 
@@ -11,7 +11,7 @@ Reasons to pixelate glycans:
 
 The following elements are available for drawing:
 
-<img src="images/elements.png" width=320 style="float:left" />
+<img src="images/elements.png" width=320 />
 
 Index | Name | Element
 --- | --- | ---
@@ -28,3 +28,19 @@ Index | Name | Element
 10 | Horizontal Stick | horz_stick
 11 | Left Diagonal Stick | left_diag_stick
 12 | Right Diagnoal Stick | right_diag_stick
+
+This is how the drawings end up looking like:
+
+<p float="left">
+  <img src="images/pixel_glycan1.png" width="180" />
+  <img src="images/pixel_glycan2.png" width="180" /> 
+  <img src="images/pixel_glycan3.png" width="180" />
+  <img src="images/pixel_glycan4.png" width="180" />
+  <img src="images/pixel_glycan5.png" width="180" />
+</p>
+
+Linkage information can be represented the following way:
+
+<img src="images/pixel_glycan_link.png" width="180" />
+
+Alpha linkages are black, beta linkages are grey and the red dot depicts the occupancy.
