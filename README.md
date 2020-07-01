@@ -35,6 +35,9 @@ This is how the drawings end up looking like:
   <img src="images/pixel_glycan1.png" width="180" />
   <img src="images/pixel_glycan2.png" width="180" /> 
   <img src="images/pixel_glycan3.png" width="180" />
+</p>
+
+<p float="left">
   <img src="images/pixel_glycan4.png" width="180" />
   <img src="images/pixel_glycan5.png" width="180" />
 </p>
