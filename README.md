@@ -13,16 +13,18 @@ The following elements are available for drawing:
 
 <img src="images/elements.png" width=320 style="float:left" />
 
-0. Glucose (Glc)
-1. Mannose (Man)
-2. Galactose (Gal)
-3. N-Acetyl Glucosamine (GlcNAc)
-4. N-Acetyl Galactosamine (GalNAc)
-5. Galacturonic Acid (GlcA)
-6. N-Acetylneuraminic Acid (Neu5Ac)
-7. N-Glycolylneuraminic Acid (Neu5Gc)
-8. Fucose (Fuc)
-9. Vertical Stick (vert_stick)
-10. Horizontal Stick (horz_stick)
-11. Left Diagonal Stick (left_diag_stick)
-12. Right Diagnoal Stick (right_diag_stick)
+Index | Name | Element
+--- | --- | ---
+0 | Glucose | Glc
+1 | Mannose | Man
+2 | Galactose | Gal
+3 | N-Acetyl Glucosamine | GlcNAc
+4 | N-Acetyl Galactosamine | GalNAc
+5 | Galacturonic Acid | GlcA
+6 | N-Acetylneuraminic Acid | Neu5Ac
+7 | N-Glycolylneuraminic Acid | Neu5Gc
+8 | Fucose | Fuc
+9 | Vertical Stick | vert_stick
+10 | Horizontal Stick | horz_stick
+11 | Left Diagonal Stick | left_diag_stick
+12 | Right Diagnoal Stick | right_diag_stick
