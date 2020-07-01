@@ -7,7 +7,7 @@ Reasons to pixelate glycans:
 * Can be used as inputs for machine learning.
 * Represent all the information in a glycan's IUPAC.
 * Drawing board size and centre positions insure perfect alignment.
-* They look really cool. =)
+* [They look really cool. =)](https://youtu.be/YtMJuBWJg74)
 
 The following elements are available for drawing:
 
