@@ -1,4 +1,4 @@
-<img src="images/logo.png" width=320 />
+<img src="images/logo.png" width=380 />
 
 A tool for drawing pixelated glycans.
 
